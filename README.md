@@ -205,7 +205,7 @@ The current iteration of the list, such as you see it today, was launched with t
 
 ### Data Visualization
 
-- [Archify](https://github.com/tt-a1i/archify) by [tt-a1i](https://github.com/tt-a1i) - An Agent Skill for Claude Code that generates interactive diagrams across 10 diagram types and one-page explainer reports as standalone HTML. Typed JSON, local renderers, and delivery checks support source-linked node details, path tracing, themes, and export.  
+- [Archify](https://github.com/tt-a1i/archify) by [tt-a1i](https://github.com/tt-a1i) - An Agent Skill for Claude Code that turns any idea, everyday plan, concept, or codebase into polished interactive HTML across 10 diagram types and 4-style conclusion-first one-page explainers — with anti-overlap routing, browser checks, path tracing, light/dark themes, and export.  
 <img src="https://img.shields.io/github/created-at/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ## Open Source Contribution & Maintenance
